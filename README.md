@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-<img src="https://github.com/ise-yed/ThinkCast/blob/main/assets/screenshots/1.png"width="220" height="385" />
+<img src="https://github.com/ise-yed/ThinkCast/blob/main/assets/screenshots/1.png"width="220" height="390" />
 <img src="https://github.com/ise-yed/ThinkCast/blob/main/assets/screenshots/6.png"width="220" height="385" />
 <img src="https://github.com/ise-yed/ThinkCast/blob/main/assets/screenshots/3.png" width="220" height="385"/>
 <img src="https://github.com/ise-yed/ThinkCast/blob/main/assets/screenshots/4.png" width="220" height="385"/>
